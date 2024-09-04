@@ -1,4 +1,4 @@
-# An unsupervised Analysis of Kenyan Counties
+# Exploring Kenya
 ![image](https://github.com/user-attachments/assets/ab411441-d703-4cf9-864b-dfd423e4dac4)
 
 In this paper, I conducted 3 unsupervised learning analysis methods o uncover significant agricultural, demographic, and geographic patterns across 41 counties in Kenya. 
